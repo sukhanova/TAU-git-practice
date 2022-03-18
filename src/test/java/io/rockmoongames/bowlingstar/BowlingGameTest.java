@@ -6,6 +6,11 @@ public class BowlingGameTest {
 
     @Test
     public void jessicaTestOne() {
-        System.out.println("Test");
+        System.out.println("Tes One");
+    }
+
+    @Test
+    public void jessicaTestTwo() {
+        System.out.println("Test Two");
     }
 }
