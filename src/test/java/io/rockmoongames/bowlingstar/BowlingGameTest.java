@@ -15,7 +15,17 @@ public class BowlingGameTest {
     }
 
     Test
-    public void jessicaTestThree() {
-        System.out.println("Test Three");
+    public void newTestThree() {
+        System.out.println("New Test Three");
+    }
+
+    Test
+    public void newTestFour() {
+        System.out.println("New Test Four");
+    }
+
+    Test
+    public void jessicaTestFour() {
+        System.out.println("Test Four");
     }
 }
