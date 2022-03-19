@@ -23,4 +23,9 @@ public class BowlingGameTest {
     public void newTestFour() {
         System.out.println("New Test Four");
     }
+
+    Test
+    public void jessicaTestFour() {
+        System.out.println("Test Four");
+    }
 }
